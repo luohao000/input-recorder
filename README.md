@@ -1,4 +1,4 @@
-# keyboard_and_mouse_macro
+# input-recorder
 
 需要安装 pynput 库
 
